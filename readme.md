@@ -1,4 +1,4 @@
-# Solidity Contract README - Enhanced Template
+# Rewards Distributor V2
 
 ## Introduction
 
